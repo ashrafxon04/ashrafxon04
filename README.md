@@ -1,11 +1,4 @@
 <h2 align='center'>Hi I'm Ashrafkhon⚡</h2>
-1. Get a URL
-2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
-3. Copy and paste on your profile
-## Menu
-- [Welcome](#welcome)
-- [How to use](#how-to-use)
-- [Badges](#badges)
   - [🧑🏼‍🏭 Static](#-static)
     - [📊 Analytics](#-analytics-)
     - [🤖 Artificial Intelligence](#-artificial-intelligence-)
