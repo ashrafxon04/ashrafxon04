@@ -8,14 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
 <div >
