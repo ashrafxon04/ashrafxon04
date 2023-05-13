@@ -1,11 +1,8 @@
 <h2 align='center'>Hi I'm Ashrafkhon⚡</h2>
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
-Create Profile Picture with SourceFuse Branding
 
-👉 [See Live](https://sf.shubhamp.dev/)
-
-![image](https://user-images.githubusercontent.com/110156023/187067539-d30bac1b-de5f-4e1f-8c54-6ddc7780db33.png)
+![image](https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=)
 
 
 
