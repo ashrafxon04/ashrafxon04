@@ -113,7 +113,9 @@ I'm Muhammad from Uzbekistan.
 <br>
 
 
-
+<div class = 'snake'>
+   <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
+</div>
 
 
 
