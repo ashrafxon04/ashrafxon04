@@ -24,8 +24,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashrafxon04&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafxon04&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafxon04&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
     
-   
 ### 🔥 &nbsp; My Stats :
 <div>
 <img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafxon04&theme=gotham" width = "63%"/>
