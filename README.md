@@ -8,7 +8,6 @@
 [![WhatsApp](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://wa.me/qr/BEISHCRDSNZND1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafxon_o4?igshid=NTc4MTIwNjQ2YQ==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashrafxonyakhyaev5797) 
 
 
-
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" height="30px"></code>
